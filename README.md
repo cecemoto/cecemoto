@@ -1,6 +1,6 @@
 My website: https://seeun.world/
 
-Currently working on contract projects; pricing will range between a shawarma to $20K
+Currently working on contract projects; pricing will range between a shawarma to $20K (Updated Jul 1)
 
 I work in fintech, specifically focusing on designing high-density UIs, such as trading terminals, agent dashboards, or crypto-based pipelines. I'm always open to pivot for different stuff though.
 
