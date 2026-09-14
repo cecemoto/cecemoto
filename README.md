@@ -6,4 +6,4 @@ I work in fintech, specifically focusing on designing high-density UIs, such as 
 
 For hobby stuff, I design and develop creative-based suite programs (focusing on both consumer and enterprise usage). If you work in animation (specifically 3D pipelines), please contact me at [seeukim@proton.me](url)
 
-Crypto transactions are preferred but official payouts are fine too
+Crypto transactions are preferred (official payouts are fine too)
