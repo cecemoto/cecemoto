@@ -1,8 +1,8 @@
-My website: https://motostudios.co/
+My studio: https://motostudios.co/
 
-Currently working on contract projects. I'm handing 2-3 contracts right now, so pricing will be higher than usual. (Updated Aug 10)
+A design studio director; currently hiring a branding and UI/UX designer (AI tool usage preferred). Please contact cece@motostudios.co with your work.
 
-I work in fintech, specifically focusing on designing high-density UIs, such as trading terminals, agent dashboards, or crypto-based pipelines. I'm always open to pivot for different stuff though.
+I worked a lot in fintech, specifically focusing on designing high-density UIs, such as trading terminals, self-improving AI dashboards, or crypto-based pipelines.
 
 For hobby stuff, I design and develop creative-based suite programs (focusing on both consumer and enterprise usage). If you work in animation (specifically 3D pipelines), please contact me at [seeukim@proton.me](url)
 
