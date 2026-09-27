@@ -4,6 +4,6 @@ A design studio director; currently hiring a branding and UI/UX designer (AI too
 
 I worked a lot in fintech, specifically focusing on designing high-density UIs, such as trading terminals, self-improving AI dashboards, or crypto-based pipelines.
 
-For hobby stuff, I design and develop creative-based suite programs (focusing on both consumer and enterprise usage). If you work in animation (specifically 3D pipelines), please contact me at [seeukim@proton.me](url)
+For hobby stuff, I design and develop creative-based graphics/suite programs (focusing on both consumer and enterprise usage).
 
 Crypto transactions are preferred (official payouts are fine too)
