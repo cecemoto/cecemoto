@@ -1,4 +1,4 @@
-My studio: https://motostudios.co/
+https://motostudios.co/
 
 A design studio director; currently hiring a branding and UI/UX designer (AI tool usage preferred). Please contact cece@motostudios.co with your work.
 
