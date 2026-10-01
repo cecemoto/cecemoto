@@ -6,4 +6,6 @@ I worked a lot in fintech, specifically focusing on designing high-density UIs, 
 
 For hobby stuff, I design and develop creative-based graphics/suite programs (focusing on both consumer and enterprise usage).
 
-Crypto transactions are preferred (official payouts are fine too)
+If I work personally with you, crypto transactions are fine (official payouts are fine too)!
+
+Because I run a studio and I'm still setting up crypto payments for my team, I am more inclined to take traditional forms of pay.
