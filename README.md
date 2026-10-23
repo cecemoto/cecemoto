@@ -1,8 +1,8 @@
 https://motostudios.co/
 
-Updated Sep 30, 2026.
+Updated Oct 22, 2026.
 
-A design studio director; currently hiring a branding and UI/UX designer (AI tool usage preferred). Please contact cece@motostudios.co with your work.
+A design studio director; currently hiring a branding and UI/UX designer (AI tool usage REQUIRED). Please contact cece@motostudios.co with your work.
 
 I worked a lot in fintech, specifically focusing on designing high-density UIs, such as trading terminals, self-improving AI dashboards, or crypto-based pipelines.
 
